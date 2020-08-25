@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: "https://geoffrowland.github.io/dbs/about/"
 ---
 
 <p class="message">
