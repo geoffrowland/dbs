@@ -7,14 +7,14 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Dorset Building Stone
+tagline:          'A prototype website'
+description:      'The building stones of Dorset from a geological perspective'
 url:              https://geoffrowland.github.io/hyde/
 baseurl:          "https://geoffrowland.github.io/hyde/"
 
 author:
-  name:           'Mark Otto'
+  name:           'The Dorset Building Stone Group'
   url:            https://twitter.com/mdo
 
 paginate:         5
