@@ -12,14 +12,12 @@ tagline:          'A prototype website'
 description:      'The building stones of Dorset from a geological perspective'
 url:              https://geoffrowland.github.io/hyde/
 baseurl:          "https://geoffrowland.github.io/hyde/"
-# baseurl:          /
-
 
 author:
   name:           'The Dorset Building Stone Group'
   url:            https://twitter.com/mdo
 
-paginate:         5
+paginate:         4
 
 # Custom vars
 version:          2.1.0
