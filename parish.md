@@ -1,6 +1,5 @@
 ---
 layout: page
 title: Parish
-permalink: "dbs/parish"
 ---
 Abbotsbury
