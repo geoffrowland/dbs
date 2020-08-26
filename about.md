@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: "dbs/about/"
 ---
 
 <p class="message">
