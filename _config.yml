@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Dorset Building Stone
 tagline:          'A prototype website'
 description:      'The building stones of Dorset from a geological perspective'
-url:              https://geoffrowland.github.io/dbs/
-baseurl:          "https://geoffrowland.github.io/dbs/"
+url:              'https://geoffrowland.github.io'
+baseurl:          '/dbs'
 
 author:
   name:           'The Dorset Building Stone Group'
